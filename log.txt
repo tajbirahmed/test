@@ -1,0 +1,2 @@
+this is a log file. 
+so, we won't be incliding it to our git repository. 
